@@ -113,24 +113,37 @@ Screenshots of the app in action:
   !(./screenshots/enter_basic.png)
 
 
-* **Professionals Filtering and Viewing**
+* **Professionals Filtering**
 
 
   ![Filter](./screenshots/prof_filter.png)
+
+* **Details of Stored Professionals**
+
 ![Filter](./screenshots/professionals.png)
 
-
-* **Add New Property**
-
-
-  ![Add](./screenshots/add_new.png)
-![Add](./screenshots/add_success.png)
-![Add](./screenshots/filter_office.png)
 
 * **Enter Basic Details**
 
 
-  ![Search](./screenshots/filling_basic.png)
+  ![Add](./screenshots/filling_basic.png)
+
+* **Enter Skills**
+
+![Add](./screenshots/fill_skills.png)
+
+* **Contact and Basic Details in Portfolio**
+
+![Add](./screenshots/skills.png)
+
+* **Certifications & Achievements**
+
+
+  ![Search](./screenshots/certifications.png)
+
+* **Services of The User**
+
+ ![Search](./screenshots/services.png)
 
 ---
 
