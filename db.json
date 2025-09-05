@@ -1,0 +1,103 @@
+{
+    "professionals": [
+        {
+            "id": "1",
+            "name": "Emma Foster",
+            "age": 26,
+            "profession": "Flight Instructor",
+            "location": "Miami, FL",
+            "rating": 4.8,
+            "experience": "4 years",
+            "projects": 95,
+            "skills": [
+                "Pilot Training",
+                "Safety Protocols"
+            ],
+            "image": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+            "id": "2",
+            "name": "Jennifer Park",
+            "age": 28,
+            "profession": "Software Engineer",
+            "location": "Denver, CO",
+            "rating": 4.6,
+            "experience": "5 years",
+            "projects": 120,
+            "skills": [
+                "Web Development",
+                "Mobile Apps"
+            ],
+            "image": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+            "id": "3",
+            "name": "Kevin Brown",
+            "age": 34,
+            "profession": "Software Engineer",
+            "location": "Seattle, WA",
+            "rating": 4.7,
+            "experience": "6 years",
+            "projects": 160,
+            "skills": [
+                "Backend Development",
+                "Cloud Architecture"
+            ],
+            "image": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+            "id": "4",
+            "name": "Lisa Wang",
+            "age": 30,
+            "profession": "AI Specialist",
+            "location": "San Francisco, CA",
+            "rating": 4.8,
+            "experience": "7 years",
+            "projects": 160,
+            "skills": [
+                "Autonomous Systems",
+                "Path Planning"
+            ],
+            "image": "https://i.pravatar.cc/150?img=4"
+        },
+        {
+            "id": "5",
+            "name": "Michael Lee",
+            "age": 32,
+            "profession": "Mechanical Engineer",
+            "location": "Boston, MA",
+            "rating": 4.5,
+            "experience": "8 years",
+            "projects": 140,
+            "skills": [
+                "Structural Design",
+                "Material Science"
+            ],
+            "image": "https://i.pravatar.cc/150?img=5"
+        }
+    ],
+    "templates": [
+        {
+            "id": "1",
+            "title": "Template 1",
+            "description": "Modern and clean design with yellow hero section and professional layout",
+            "features": [
+                "Yellow Hero Section",
+                "Grid Portfolio",
+                "Testimonials Carousel",
+                "Contact Form"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Template 2",
+            "description": "Split-screen layout with timeline skills and masonry portfolio grid",
+            "features": [
+                "Split Hero Layout",
+                "Masonry Portfolio",
+                "Timeline Skills",
+                "Blog Section"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,539 @@
+/* Container */
+.portfolio-container {
+    font-family: "Segoe UI", sans-serif;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* Header */
+.portfolio-header {
+    position: relative;
+    text-align: center;
+}
+
+.portfolio-banner {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.portfolio-info {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 15px 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.portfolio-info h1 {
+    margin: 0;
+    color: #e60000;
+    /* red like screenshot */
+}
+
+.portfolio-info p {
+    margin: 4px 0;
+    font-size: 14px;
+}
+
+/* Section titles */
+.portfolio-section h2 {
+    text-align: center;
+    font-size: 26px;
+    margin: 40px 0 20px;
+}
+
+.portfolio-section h2 span {
+    color: #e60000;
+    /* highlight in red */
+    font-weight: bold;
+}
+
+/* Skills */
+.skills-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 0 20px;
+}
+
+.skill-card {
+    flex: 1;
+    min-width: 250px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 24px 4px rgba(0, 0, 0, 0.12);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.skill-card::after {
+    content: "";
+    display: block;
+    height: 5px;
+    width: 90%;
+    background: #e60000;
+    margin: 10px auto 0;
+    border-radius: 5px;
+}
+
+/* Certifications */
+.certifications {
+    background: #111;
+    color: #fff;
+    padding: 30px 0;
+}
+
+.cert-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.cert-card {
+    background: #222;
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #f9f9f9;
+    min-width: 220px;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Services */
+.services-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 0 20px;
+}
+
+.service-card {
+    background: #ffcc00;
+    /* yellow cards */
+    padding: 25px;
+    border-radius: 12px;
+    flex: 1;
+    min-width: 220px;
+    max-width: 280px;
+    font-weight: 500;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Gallery */
+.gallery-grid {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    padding: 0 20px 40px;
+}
+
+.gallery-grid img {
+    border-radius: 12px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* ...existing code... */
+
+.portfolio-banner {
+    width: 100%;
+    min-height: 180px;
+    background: linear-gradient(90deg, #ffd000 60%, #ff9d00 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.portfolio-info {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 28px 38px;
+    border-radius: 16px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.10);
+    text-align: center;
+    min-width: 320px;
+}
+
+.portfolio-info h1 {
+    margin: 0 0 8px 0;
+    color: #e60000;
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.portfolio-profession {
+    font-size: 1.1rem;
+    color: #123a64;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+.portfolio-contact {
+    color: #d32f2f;
+    font-weight: 500;
+}
+
+.portfolio-section {
+    background: #fff;
+    border-radius: 14px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+    margin: 32px auto;
+    padding: 32px 24px;
+    max-width: 800px;
+    margin-top: 100px;
+}
+
+/* ...existing code... */
+
+.icon-label {
+    font-size: 1rem;
+    font-weight: 500;
+    word-break: break-all;
+}
+
+.icon-label span {
+    color: #888;
+    /* grey for label */
+    font-size: 0.98rem;
+    font-weight: 400;
+}
+
+.icon-label strong {
+    color: #222;
+    /* black for value */
+    font-weight: 500;
+}
+
+
+.portfolio-section h2 {
+    text-align: center;
+    font-size: 1.7rem;
+    margin-bottom: 18px;
+}
+
+.portfolio-section h2 span {
+    color: #e60000;
+    font-weight: bold;
+}
+
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.skill-card {
+    background: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    padding: 18px 22px;
+    min-width: 180px;
+    max-width: 220px;
+    text-align: center;
+    position: relative;
+}
+
+.skill-title {
+    font-weight: 600;
+    color: #d32f2f;
+    margin-bottom: 10px;
+    font-size: 1.08rem;
+}
+
+.skill-bar-bg {
+    background: #ffe066;
+    border-radius: 8px;
+    height: 14px;
+    width: 100%;
+    margin: 0 auto 8px auto;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.07);
+}
+
+.skill-bar-fill {
+    background: linear-gradient(90deg, #d32f2f 70%, #ffd000 100%);
+    height: 100%;
+    border-radius: 8px;
+    transition: width 0.5s;
+}
+
+.skill-intensity {
+    font-size: 0.95rem;
+    color: #123a64;
+    font-weight: 500;
+    margin-top: 2px;
+}
+
+/* ...existing code... */
+/* Add to d:\portfolio-generator\src\components\PortfolioPage.css */
+.below-banner-flex {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin: 32px 0 0 0;
+    justify-content: flex-start;
+}
+
+.banner-left-rect-wide {
+    flex: 0 0 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 140px;
+}
+
+.banner-img-rect-wide {
+    width: 160px;
+    height: 140px;
+    border-radius: 18px;
+    object-fit: cover;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+    border: 4px solid #fff;
+    background: #fff;
+}
+
+.banner-contact-col {
+    flex: 0 0 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+}
+
+.banner-icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icon-circle {
+    background: #e60000;
+    color: #fff;
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+}
+
+.icon-label {
+    color: #222;
+    font-size: 1rem;
+    font-weight: 500;
+    word-break: break-all;
+}
+
+/* Banner wrapper */
+.custom-banner-rect-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #ffd000 60%, #ff9d00 100%);
+    min-height: 220px;
+    padding: 0 32px;
+    border-radius: 16px;
+    margin-bottom: 0;
+    position: relative;
+}
+
+/* Center name properly */
+.banner-center-rect {
+    text-align: center;
+}
+
+.banner-center-rect h1 {
+    margin: 0;
+    color: #e60000;
+    font-size: 2.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Image below banner - rectangular */
+.banner-img-rect-wide {
+    width: 660px;
+    /* wider image */
+    height: 300px;
+    /* rectangular */
+    border-radius: 16px;
+    /* rounded rectangle */
+    object-fit: cover;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+    border: 5px solid #fff;
+    background: #fff;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 90px;
+}
+
+/* Container for image + contact info */
+.below-banner-flex {
+    display: flex;
+    align-items: flex-start;
+    /* keep them aligned at the top */
+    justify-content: flex-start;
+    /* no forced space between */
+    gap: 20px;
+    /* smaller gap between image & contact */
+    margin: 24px 0 0 0;
+}
+
+
+/* Contact column now left aligned */
+.banner-contact-col {
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* left aligned */
+    gap: 18px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+
+.icon-circle {
+    background: #e60000;
+    color: #fff;
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+}
+
+.icon-label {
+    color: #222;
+    font-size: 1rem;
+    font-weight: 500;
+    word-break: break-all;
+}
+
+/* ...existing code... */
+
+.experience-ellipse {
+    position: absolute;
+    right: -40px;
+    bottom: -160px;
+    width: 210px;
+    height: 48px;
+    background: #fdcd0b;
+    color: #222;
+    border-radius: 50px / 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 1.08rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+    border: 2px solid #fff;
+    z-index: 2;
+}
+
+/* Add to d:\portfolio-generator\src\components\PortfolioPage.css */
+.skills-category-block {
+    margin-bottom: 32px;
+    box-shadow: 0 4px 24px 4px rgba(0, 0, 0, 0.12);
+}
+
+.skills-category-title {
+    font-size: 1.2rem;
+    color: #0e0101;
+    font-weight: 600;
+    margin-bottom: 12px;
+    margin-left: 8px;
+}
+
+.cert-section {
+    background: #222;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px 4px rgba(0, 0, 0, 0.12);
+    margin: 32px auto;
+    padding: 32px 24px;
+    max-width: 800px;
+}
+
+.cert-grid {
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    margin-top: 18px;
+}
+
+.cert-card,
+.cert-card-preview {
+    background: #444;
+    border-radius: 10px;
+    padding: 18px 28px;
+    min-width: 180px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    font-size: 1rem;
+}
+
+.services-section {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px 4px rgba(0, 0, 0, 0.12);
+    margin: 32px auto;
+    padding: 32px 24px;
+    max-width: 800px;
+}
+
+.services-grid {
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    margin-top: 18px;
+}
+
+.service-card,
+.service-card-preview {
+    background: #ffd000;
+    border-radius: 10px;
+    padding: 18px 28px;
+    min-width: 180px;
+    text-align: left;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    font-size: 1rem;
+}
+
+.service-card ul {
+    margin: 8px 0 0 0;
+    padding-left: 18px;
+}
+
+.service-card li {
+    color: #e60000;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
