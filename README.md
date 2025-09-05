@@ -92,6 +92,19 @@ portfolio-generator/
 
 ---
 
+## 🖼️ Screenshots
+
+
+```
+![Template Selection](screenshots/template-selection.png)
+![Portfolio Preview](screenshots/portfolio-preview.png)
+![Professionals Directory](screenshots/professionals-directory.png)
+```
+
+---
+
+
+
 ## 💡 Customization
 
 - **Add more skill categories or templates** in `App.jsx`.
