@@ -1,4 +1,4 @@
-# Portfolio Generator
+# 🏦 Portfolio Generator
 
 A modern and interactive React-based web application that allows users to create, customize, and showcase professional portfolios with ease.
 Users can enter details such as skills, certifications, achievements, and services, then preview and share a beautifully designed portfolio page.
@@ -63,7 +63,7 @@ portfolio-generator/
 │   │   ├── ProfileCard.jsx
 │   │   ├── PortfolioForm.jsx
 │   │   └── PortfolioPage.css # Portfolio page styles
-│   └── ...
+│   └── screenshots
 ├── db.json                   # Local database for professionals/templates
 ├── package.json
 └── README.md
