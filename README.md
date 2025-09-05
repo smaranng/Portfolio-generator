@@ -73,10 +73,6 @@ portfolio-generator/
 
 ## 🖼️ Screenshots
 
-> **How to upload screenshots:**  
-> 1. Take screenshots of your UI (form, preview, professionals list, etc.).
-> 2. Save them in a `/screenshots` folder in your project root.
-> 3. Drag and drop images here, or use Markdown to embed:
 
 ```
 ![Template Selection](screenshots/template-selection.png)
