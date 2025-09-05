@@ -100,12 +100,37 @@ npm run server
 
 ## 🖼️ Screenshots
 
+Screenshots of the app in action:
 
-```
-![Template Selection](screenshots/template-selection.png)
-![Portfolio Preview](screenshots/portfolio-preview.png)
-![Professionals Directory](screenshots/professionals-directory.png)
-```
+* **Property Listings**
+
+
+  ![Property Listings](./screenshots/display_all.png)
+
+* **Search Functionality**
+
+
+  ![Search](./screenshots/search.png)
+
+
+* **Filter Functionality**
+
+
+  ![Filter](./screenshots/filter_apt.png)
+![Filter](./screenshots/filter_plot.png)
+
+
+* **Add New Property**
+
+
+  ![Add](./screenshots/add_new.png)
+![Add](./screenshots/add_success.png)
+![Add](./screenshots/filter_office.png)
+
+* **View Details and Locate on Map**
+
+
+  ![Search](./screenshots/view_map.png)
 
 ---
 
