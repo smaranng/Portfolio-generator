@@ -107,17 +107,17 @@ Screenshots of the app in action:
 
   ![Templates](./screenshots/choose_temp.png)
 
-* **Search Functionality**
+* **Basic Details Form**
 
 
-  ![Search](./screenshots/search.png)
+  !(./screenshots/enter_basic.png)
 
 
-* **Filter Functionality**
+* **Professionals Filtering and Viewing**
 
 
-  ![Filter](./screenshots/filter_apt.png)
-![Filter](./screenshots/filter_plot.png)
+  ![Filter](./screenshots/prof_filter.png)
+![Filter](./screenshots/professionals.png)
 
 
 * **Add New Property**
@@ -127,10 +127,10 @@ Screenshots of the app in action:
 ![Add](./screenshots/add_success.png)
 ![Add](./screenshots/filter_office.png)
 
-* **View Details and Locate on Map**
+* **Enter Basic Details**
 
 
-  ![Search](./screenshots/view_map.png)
+  ![Search](./screenshots/filling_basic.png)
 
 ---
 
