@@ -102,10 +102,10 @@ npm run server
 
 Screenshots of the app in action:
 
-* **Property Listings**
+* **Choosing Templates**
 
 
-  ![Property Listings](./screenshots/display_all.png)
+  ![Templates](./screenshots/choose_temp.png)
 
 * **Search Functionality**
 
