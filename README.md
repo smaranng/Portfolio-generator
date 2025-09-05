@@ -100,50 +100,44 @@ npm run server
 
 ## 🖼️ Screenshots
 
-Screenshots of the app in action:
+A glimpse of the Portfolio Generator in action:
 
-* **Choosing Templates**
+### 🔹 Template Selection
+Easily browse and choose from multiple portfolio templates.
+![Template Selection](./screenshots/choose_temp.png)
 
+### 🔹 Basic Details Form
+Enter essential information such as name, profession, and location.
+![Basic Details](./screenshots/enter_basic.png)
 
-  ![Templates](./screenshots/choose_temp.png)
+### 🔹 Professionals Directory
+Browse and filter through professionals added to the system.
+![Professionals Filtering](./screenshots/prof_filter.png)
 
-* **Basic Details Form**
+### 🔹 Stored Professionals
+View complete details of all saved professionals.
+![Professionals List](./screenshots/professionals.png)
 
+### 🔹 Filling in Basic Details
+Step 1 of creating your portfolio.
+![Basic Form](./screenshots/filling_basic.png)
 
-  !(./screenshots/enter_basic.png)
+### 🔹 Adding Skills
+Select skill categories and set proficiency levels.
+![Skills](./screenshots/fill_skills.png)
 
+### 🔹 Portfolio Contact & Basic Details
+Preview of personal and contact information in the portfolio.
+![Contact & Details](./screenshots/skills.png)
 
-* **Professionals Filtering**
+### 🔹 Certifications & Achievements
+Showcase your certifications and achievements in style.
+![Certifications](./screenshots/certifications.png)
 
+### 🔹 Services Section
+Highlight the services you provide with clear bullet points.
+![Services](./screenshots/services.png)
 
-  ![Filter](./screenshots/prof_filter.png)
-
-* **Details of Stored Professionals**
-
-![Filter](./screenshots/professionals.png)
-
-
-* **Enter Basic Details**
-
-
-  ![Add](./screenshots/filling_basic.png)
-
-* **Enter Skills**
-
-![Add](./screenshots/fill_skills.png)
-
-* **Contact and Basic Details in Portfolio**
-
-![Add](./screenshots/skills.png)
-
-* **Certifications & Achievements**
-
-
-  ![Search](./screenshots/certifications.png)
-
-* **Services of The User**
-
- ![Search](./screenshots/services.png)
 
 ---
 
