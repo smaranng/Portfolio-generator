@@ -71,17 +71,6 @@ portfolio-generator/
 
 ---
 
-## 🖼️ Screenshots
-
-
-```
-![Template Selection](screenshots/template-selection.png)
-![Portfolio Preview](screenshots/portfolio-preview.png)
-![Professionals Directory](screenshots/professionals-directory.png)
-```
-
----
-
 ## 📝 How to Run Locally
 
 1. **Install dependencies:**
