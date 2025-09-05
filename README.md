@@ -104,38 +104,56 @@ A glimpse of the Portfolio Generator in action:
 
 ### 🔹 Template Selection
 Easily browse and choose from multiple portfolio templates.
+
+
 ![Template Selection](./screenshots/choose_temp.png)
 
 ### 🔹 Basic Details Form
 Enter essential information such as name, profession, and location.
+
+
 ![Basic Details](./screenshots/enter_basic.png)
 
 ### 🔹 Professionals Directory
 Browse and filter through professionals added to the system.
+
+
 ![Professionals Filtering](./screenshots/prof_filter.png)
 
 ### 🔹 Stored Professionals
 View complete details of all saved professionals.
+
+
 ![Professionals List](./screenshots/professionals.png)
 
 ### 🔹 Filling in Basic Details
 Step 1 of creating your portfolio.
+
+
 ![Basic Form](./screenshots/filling_basic.png)
 
 ### 🔹 Adding Skills
 Select skill categories and set proficiency levels.
+
+
 ![Skills](./screenshots/fill_skills.png)
 
 ### 🔹 Portfolio Contact & Basic Details
 Preview of personal and contact information in the portfolio.
+
+
 ![Contact & Details](./screenshots/skills.png)
 
 ### 🔹 Certifications & Achievements
 Showcase your certifications and achievements in style.
+
+
 ![Certifications](./screenshots/certifications.png)
 
 ### 🔹 Services Section
 Highlight the services you provide with clear bullet points.
+
+
 ![Services](./screenshots/services.png)
 
 
