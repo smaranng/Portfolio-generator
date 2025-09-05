@@ -7,14 +7,14 @@ Users can enter details such as skills, certifications, achievements, and servic
 
 ## 🚀 Features
 
-- **Template Selection:** Choose from multiple professional portfolio templates.
-- **Dynamic Form:** Add company details, contact info, skills (with proficiency sliders), certifications, achievements, and services.
-- **Skill Categories:** Select skill categories (Front End, Backend, AI & ML) and set proficiency for each skill.
-- **Certifications & Achievements:** Add multiple certifications with organization info, displayed in stylish cards.
-- **Services:** Add and preview your services, each with a title and bullet-point descriptions.
-- **Live Preview:** Instantly preview your portfolio as you build it.
-- **Professionals Directory:** Browse and filter listed professionals.
-- **Responsive Design:** Works great on desktop and mobile.
+* 🎨 **Template Selection** – Choose from multiple professional portfolio templates.
+* 📝 **Dynamic Multi-Section Form** – Add company details, contact info, skills, certifications, achievements, and services.
+* 📊 **Skill Categories & Proficiency** – Organize skills by category (Frontend, Backend, AI & ML, etc.) with proficiency sliders.
+* 🏅 **Certifications & Achievements** – Showcase certifications with issuing organization details in stylish cards.
+* 💼 **Services** – Add and preview professional services with descriptions.
+* 🔍 **Live Preview** – Instantly preview your portfolio as you build it.
+* 📒 **Professionals Directory** – Browse and filter through listed professionals.
+* 📱 **Responsive Design** – Optimized for both desktop and mobile devices.
 
 ---
 
