@@ -1,6 +1,7 @@
 # Portfolio Generator
 
-A modern, interactive web app for creating, customizing, and showcasing professional portfolios. Built with React, this project lets users add their details, skills, certifications, services, and more, then preview and share a beautifully designed portfolio page.
+A modern and interactive React-based web application that allows users to create, customize, and showcase professional portfolios with ease.
+Users can enter details such as skills, certifications, achievements, and services, then preview and share a beautifully designed portfolio page.
 
 ---
 
