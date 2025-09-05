@@ -71,24 +71,30 @@ portfolio-generator/
 
 ---
 
-## 📝 How to Run Locally
+## ⚡ Getting Started
 
-1. **Install dependencies:**
-   ```
-   npm install
-   ```
+### 1️⃣ Install dependencies
 
-2. **Start the dev server:**
-   ```
-   npm run dev
-   ```
+```bash
+npm install
+```
 
-3. **Start the mock API server:**
-   ```
-   npm run server
-   ```
+### 2️⃣ Start development server
 
-4. **Open [http://localhost:5173](http://localhost:5173) in your browser.**
+```bash
+npm run dev
+```
+
+### 3️⃣ Start mock API (json-server)
+
+```bash
+npm run server
+```
+
+### 4️⃣ Open in browser
+
+[http://localhost:5173](http://localhost:5173)
+
 
 ---
 
