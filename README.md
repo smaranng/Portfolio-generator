@@ -111,11 +111,11 @@ npm run server
 
 
 
-## 💡 Customization
+## 🎨 Customization
 
-- **Add more skill categories or templates** in `App.jsx`.
-- **Style further** in `App.css` and `PortfolioPage.css`.
-- **Connect to a real backend** by updating `api.js`.
+* Add more **skill categories, templates, or services** in `App.jsx`.
+* Modify **styling** in `App.css` and `PortfolioPage.css`.
+* Replace the **mock backend** (`json-server`) with a real API by updating `api.js`.
 
 ---
 
@@ -126,4 +126,4 @@ Feel free to fork, improve, and share.
 
 ---
 
-**Enjoy building your professional
+
